@@ -149,4 +149,9 @@ exports.global = function () {
 	GLOBAL.paste = exports.paste;
 
 	return exports;
+
+
+
 };
+const abc = 24;
+abc = 34;
