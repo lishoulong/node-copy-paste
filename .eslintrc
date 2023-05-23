@@ -1,0 +1,7 @@
+{
+	"rules": {
+			// Override our default settings just for this directory
+			"eqeqeq": "warn",
+			"strict": 1
+	}
+}
